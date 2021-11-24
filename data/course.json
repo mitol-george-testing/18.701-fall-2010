@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "720b1aa2-7199-bc5d-59ac-1e6587ef4c50"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Algebra I",
+  "course_description": "This undergraduate level Algebra I course covers groups, vector spaces, linear transformations, symmetry groups, bilinear forms, and linear groups.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.701",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
